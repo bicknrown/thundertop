@@ -13,6 +13,23 @@ The hardware list for this project *will* change over time.
 * Manufacturer: `HP`
 * Part Number: `P5Q58AAABA`
 * Model: `HSTNN-CX01`
+* Integrated Circuits:
+    * Intel Thunderbolt 3 Controller IC:
+        * `DSL6540`
+    * Synaptics DisplayPort MST (Multi Stream Transport) hub IC:
+        * `VMM3320BJG`
+    * Broadcom Gigabit Ethernet Controller IC:
+        * `BCM57762`
+    * Synaptics Audio Cross Mixer IC:
+        * `CX20701`
+    * Winbond EEPROM IC:
+        * `W25Q80DVSIG`
+    * Asmedia USB3.2 Gen1 Hub IC:
+        * `ASM1074`
+    * Asmedia PCI Express to USB3.0 IC:
+        * `ASM1042A`
+    * Texas Instruments USB Type-C and USB PD controller power switch and high-speed multiplexer IC:
+        * `TPS65982`
 
 ### Laptop Display
 `TBD`
